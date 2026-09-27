@@ -1,45 +1,35 @@
-<h1 align="center">Nino Chakma</h1>
-
 <p align="center">
-  <i>Teaching machines to learn, and figuring out how to keep them from being fooled.</i>
+  <img src="assets/banner.svg" width="100%" alt="Nino Chakma, machine learning researcher and MERN developer. Animated diagram of one federated learning round." />
 </p>
 
-<p align="center">
-  <a href="https://portfolio-eight-tawny-74.vercel.app/">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/nino-chakma-a4a638302">LinkedIn</a> ·
-  <a href="mailto:www.nino39@gmail.com">Email</a>
-</p>
+I work on two sides of software. On the research side I study machine learning, mostly federated learning and how to keep models from being fooled. On the building side I make full-stack apps with the MERN stack, and lately I've been adding LLMs and RAG to them.
 
----
+## Research
 
-nino = {
-    "role":         "CS researcher who learns by building",
-    "research":     ["machine learning", "cybersecurity", "federated learning"],
-    "learning_now": ["LLMs", "retrieval-augmented generation", "image generation"],
-    "building":     "LLM + RAG applications",
-    "ask_me_about": ["AI/ML", "Python"],
-    "motto":        "build it to understand it",
-}
+**Federated learning.** Training models across many devices without collecting everyone's data in one place.
 
-### Where my work sits
+**ML security.** Finding out how models break under attack, and how to make them harder to break.
 
-Machine learning is the core, and I'm interested in what models learn, not just how well they score.
-Federated learning trains models without pooling everyone's data in one place.
-Cybersecurity asks what happens when someone tries to break all of the above.
+**Learning right now:** LLMs, retrieval-augmented generation, and image generation.
 
-### Toolbox
+## Building
 
-<p>
-  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,c,cpp,cs,js,html,css,react,nodejs,express,mongodb,git,github,docker,linux&perline=9"
-       alt="Python, PyTorch, TensorFlow, scikit-learn, C, C++, C#, JavaScript, HTML, CSS, React, Node.js, Express, MongoDB, Git, GitHub, Docker, Linux" />
-</p>
+| Project | What it is |
+| --- | --- |
+| [Shadow Path](https://shadow-path-ninja.vercel.app/) | A ninja game you can play in the browser |
+| More on my [portfolio](https://portfolio-eight-tawny-74.vercel.app/) | Full-stack projects, with more being added |
 
-### Activity
+## Tools
 
-<p>
-  <img src="https://streak-stats.demolab.com/?user=NN-132&theme=dark" alt="GitHub contribution streak" />
-</p>
+**For research**<br>
+<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn" alt="Python, PyTorch, TensorFlow, scikit-learn" />
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=NN-132&label=visitors&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+**For the web**<br>
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,html,css" alt="MongoDB, Express, React, Node.js, JavaScript, HTML, CSS" />
+
+**For everything else**<br>
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,git,docker,linux" alt="C, C++, C#, Git, Docker, Linux" />
+
+## Get in touch
+
+Ask me about machine learning or Python. You can reach me by [email](mailto:www.nino39@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/nino-chakma-a4a638302).
