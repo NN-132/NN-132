@@ -1,43 +1,45 @@
-<h1 align="center">Hi 👋, I'm Nino Chakma</h1>
+<h1 align="center">Nino Chakma</h1>
 
-<h3 align="center">
-  A computer science researcher who loves to build and learn
-</h3>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=NN-132&label=Profile%20views&color=blue&style=flat"
-       alt="Profile views" />
+<p align="center">
+  <i>Teaching machines to learn, and figuring out how to keep them from being fooled.</i>
 </p>
 
-- 🔭 I’m currently working on machine learning, cybersecurity and federated-learning
-- 🌱 I’m currently learning LLMs, retrieval-augmented generation, image generation
-- 👨‍💻 My projects are available at https://portfolio-eight-tawny-74.vercel.app/
-- 💬 Ask me about AI/ML and Python
-- 📫 How to reach me: [www.nino39@gmail.com](mailto:www.nino39@gmail.com)
+<p align="center">
+  <a href="https://portfolio-eight-tawny-74.vercel.app/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/nino-chakma-a4a638302">LinkedIn</a> ·
+  <a href="mailto:www.nino39@gmail.com">Email</a>
+</p>
 
-### Connect with me:
+---
 
-<a href="www.linkedin.com/in/nino-chakma-a4a638302">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"
-       alt="LinkedIn" />
-</a>
+nino = {
+    "role":         "CS researcher who learns by building",
+    "research":     ["machine learning", "cybersecurity", "federated learning"],
+    "learning_now": ["LLMs", "retrieval-augmented generation", "image generation"],
+    "building":     "LLM + RAG applications",
+    "ask_me_about": ["AI/ML", "Python"],
+    "motto":        "build it to understand it",
+}
 
-<h3>Languages and Tools:</h3>
+### Where my work sits
+
+Machine learning is the core, and I'm interested in what models learn, not just how well they score.
+Federated learning trains models without pooling everyone's data in one place.
+Cybersecurity asks what happens when someone tries to break all of the above.
+
+### Toolbox
 
 <p>
-  <img
-    src="https://skillicons.dev/icons?i=c,cpp,cs,py,js,html,css,mongodb,express,react,nodejs,pytorch,tensorflow,sklearn,git,github,docker,linux&perline=9"
-    alt="C, C++, C#, Python, JavaScript, HTML, CSS, MongoDB, Express, React, Node.js, PyTorch, TensorFlow, scikit-learn, Git, GitHub, Docker, and Linux"
-  />
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,c,cpp,cs,js,html,css,react,nodejs,express,mongodb,git,github,docker,linux&perline=9"
+       alt="Python, PyTorch, TensorFlow, scikit-learn, C, C++, C#, JavaScript, HTML, CSS, React, Node.js, Express, MongoDB, Git, GitHub, Docker, Linux" />
 </p>
 
-<p>🧠 Also working with LLMs and RAG applications.
-</p>
-
-
-### GitHub streak:
+### Activity
 
 <p>
-  <img src="https://streak-stats.demolab.com/?user=NN-132&theme=dark"
-       alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com/?user=NN-132&theme=dark" alt="GitHub contribution streak" />
+</p>
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=NN-132&label=visitors&color=0e75b6&style=flat" alt="Profile views" />
 </p>
