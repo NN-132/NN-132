@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on machine learning, cybersecurity and federated-learning
 - 🌱 I’m currently learning LLMs, retrieval-augmented generation, image generation
-- 👨‍💻 My projects are available at YOUR_PORTFOLIO_URL
+- 👨‍💻 My projects are available at https://portfolio-eight-tawny-74.vercel.app/
 - 💬 Ask me about AI/ML and Python
 - 📫 How to reach me: [www.nino39@gmail.com](mailto:www.nino39@gmail.com)
 
